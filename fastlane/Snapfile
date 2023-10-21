@@ -1,0 +1,35 @@
+scheme("HabitMinderUITests")
+
+devices([
+   "iPad Pro (12.9-inch) (2nd generation)"
+])
+
+languages([
+  "en-US",
+  "zh-Hans"
+])
+
+launch_arguments([""])
+
+# The directory in which the screenshots should be stored
+output_directory('./screenshots')
+
+clean(false)
+
+clear_previous_screenshots(false)
+
+concurrent_simulators(false)
+
+override_status_bar(true)
+
+localize_simulator(true)
+
+reinstall_app(false)
+
+result_bundle(false)
+
+skip_open_summary(true)
+
+stop_after_first_error(true)
+
+add_photos(["HabitMinder/Assets"])
