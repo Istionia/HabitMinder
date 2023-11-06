@@ -37,9 +37,7 @@ Our app is dedicated to helping you build and maintain positive habits while acc
 
 ## 7. Accessibility (COMING SOON)
 - Prioritizing accessibility, HabitMinder offers features like voice commands and screen reader support.
-- We are committed to making the app as inclusive as possible.
-
-I hope you enjoy this one!
+- I am committed to making the app as inclusive as possible.
 
 # Installation
 Download it on the [App Store.](https://apps.apple.com/us/app/habitminder/id6451428498)
@@ -58,5 +56,5 @@ While this is not an open-source project, feature requests or bug reports are mo
 # Disclaimer
 HabitMinder is specifically designed to support neurodivergent individuals in building positive habits. It is not affiliated with any specific medical or neurodiversity organizations. The app is intended to provide a positive and user-friendly experience for its users.
 
-Thank you for choosing HabitMinder. We hope this app becomes a valuable tool for you to achieve your goals and maintain positive habits, all while catering to your neurodivergent needs.
+Thank you for choosing HabitMinder. I hope this app becomes a valuable tool for you to achieve your goals and maintain positive habits, all while catering to your neurodivergent needs.
 
